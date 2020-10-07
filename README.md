@@ -1,6 +1,11 @@
-This is a movie search engine implemented with React.js and Bulma using the IMDB public api. It shows information of any movie like ratings, director and cast.
+# search-movies-react
+
+This is a movie search project implemented with React.js and Bulma using the IMDB public api. It shows information like ratings, director and cast of any movie.
+
+#Preview:
 
 ![img](https://raw.githubusercontent.com/jngumy/search-movies-react/master/home.png)
+![img](https://raw.githubusercontent.com/jngumy/search-movies-react/master/detail.png)
 
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
@@ -71,4 +76,4 @@ This section has moved here: https://facebook.github.io/create-react-app/docs/de
 ### `npm run build` fails to minify
 
 This section has moved here: https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify
-# search-movies-react
+
