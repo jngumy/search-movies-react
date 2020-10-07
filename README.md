@@ -1,4 +1,7 @@
-This is a movie search engine implemented with React.js and Bulma using the IMDB public api. 
+This is a movie search engine implemented with React.js and Bulma using the IMDB public api. It shows information of any movie like ratings, director and cast.
+
+![img](https://raw.githubusercontent.com/jngumy/search-movies-react/master/home.png)
+
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
