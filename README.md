@@ -2,7 +2,7 @@
 
 This is a movie search project implemented with React.js and Bulma using the IMDB public api. It shows information like ratings, director and cast of any movie.
 
-#Preview:
+Preview:
 
 ![img](https://raw.githubusercontent.com/jngumy/search-movies-react/master/home.png)
 ![img](https://raw.githubusercontent.com/jngumy/search-movies-react/master/detail.png)
